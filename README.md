@@ -1,6 +1,4 @@
-Got it 👍 — here’s a **complete `README.md` file** you can directly use in your GitHub repo.
 
----
 
 ```markdown
 # 🔮 AI Astrologer
