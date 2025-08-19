@@ -127,8 +127,3 @@ This project is licensed under the **MIT License**.
 ✨ *Built with love using Streamlit, Python, and OpenRouter AI.*
 
 ```
-
----
-
-Would you like me to also **add screenshots placeholders** in the README (like “Insert screenshot here”) so your GitHub repo looks more polished when you upload demo images?
-```
